@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+LAYER1 ALL TILES WRITE test passed
+$finish called at time : 375086 ns : File "C:/Users/genie/Downloads/hdl_sources/finalprj_rps/finalprj_rps.srcs/sim_1/new/tb.sv" Line 101

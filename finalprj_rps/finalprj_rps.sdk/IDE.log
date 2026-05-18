@@ -1,0 +1,23 @@
+11:35:48 DEBUG : Logs will be stored at 'D:/20261exp/distribution/finalprj_rps/finalprj_rps.sdk/IDE.log'.
+11:35:52 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\20261exp\distribution\finalprj_rps\finalprj_rps.sdk\temp_xsdb_launch_script.tcl
+11:35:52 INFO  : Platform repository initialization has completed.
+11:35:55 INFO  : Registering command handlers for Vitis TCF services
+11:35:55 INFO  : XSCT server has started successfully.
+11:35:55 INFO  : Successfully done setting XSCT server connection channel  
+11:35:55 INFO  : plnx-install-location is set to ''
+11:35:55 INFO  : Successfully done setting workspace for the tool. 
+11:35:55 INFO  : Successfully done query RDI_DATADIR 
+11:39:59 INFO  : Result from executing command 'getProjects': design_1_wrapper
+11:39:59 INFO  : Result from executing command 'getPlatforms': 
+11:39:59 WARN  : An unexpected exception occurred in the module 'platform project logging'
+11:39:59 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+11:40:09 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+22:44:27 DEBUG : Logs will be stored at 'C:/Users/genie/Downloads/hdl_sources/finalprj_rps/finalprj_rps.sdk/IDE.log'.
+22:44:28 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\genie\Downloads\hdl_sources\finalprj_rps\finalprj_rps.sdk\temp_xsdb_launch_script.tcl
+22:44:32 INFO  : Platform repository initialization has completed.
+22:44:32 INFO  : XSCT server has started successfully.
+22:44:32 INFO  : Registering command handlers for Vitis TCF services
+22:44:35 INFO  : Successfully done setting XSCT server connection channel  
+22:44:35 INFO  : plnx-install-location is set to ''
+22:44:35 INFO  : Successfully done query RDI_DATADIR 
+22:44:35 INFO  : Successfully done setting workspace for the tool. 
