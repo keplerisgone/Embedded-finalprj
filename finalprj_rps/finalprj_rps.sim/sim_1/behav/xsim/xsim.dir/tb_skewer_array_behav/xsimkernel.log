@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_skewer_array_behav/xsimk.exe -simmode gui -wdb tb_skewer_array_behav.wdb -simrunnum 0 -socket 57507
-Design successfully loaded
-Design Loading Memory Usage: 8480 KB (Peak: 8480 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 9156 KB (Peak: 9156 KB)
-Simulation CPU Usage: 0 ms

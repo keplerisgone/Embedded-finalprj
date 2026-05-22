@@ -1,0 +1,14 @@
+# Ignore everything by default.
+*
+
+# Keep the ignore rules themselves in Git.
+!.gitignore
+
+# Track only the Vivado source directory.
+!finalprj_rps/
+!finalprj_rps/finalprj_rps.srcs/
+!finalprj_rps/finalprj_rps.srcs/**
+
+# Never track macOS metadata.
+.DS_Store
+**/.DS_Store

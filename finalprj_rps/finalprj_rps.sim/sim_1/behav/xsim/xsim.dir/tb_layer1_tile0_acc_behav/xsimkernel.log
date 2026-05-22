@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_layer1_tile0_acc_behav/xsimk.exe -simmode gui -wdb tb_layer1_tile0_acc_behav.wdb -simrunnum 0 -socket 50190
-Design successfully loaded
-Design Loading Memory Usage: 10500 KB (Peak: 10500 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 12372 KB (Peak: 12372 KB)
-Simulation CPU Usage: 296 ms

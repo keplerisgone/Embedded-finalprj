@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_layer1_all_tiles_write_behav/xsimk.exe -simmode gui -wdb tb_layer1_all_tiles_write_behav.wdb -simrunnum 0 -socket 62608
-Design successfully loaded
-Design Loading Memory Usage: 10524 KB (Peak: 10524 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 14484 KB (Peak: 14484 KB)
-Simulation CPU Usage: 2983 ms

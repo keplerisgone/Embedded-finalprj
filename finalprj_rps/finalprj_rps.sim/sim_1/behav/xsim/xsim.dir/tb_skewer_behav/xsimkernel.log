@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_skewer_behav/xsimk.exe -simmode gui -wdb tb_skewer_behav.wdb -simrunnum 0 -socket 57491
-Design successfully loaded
-Design Loading Memory Usage: 8964 KB (Peak: 8964 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 9604 KB (Peak: 9604 KB)
-Simulation CPU Usage: 0 ms
